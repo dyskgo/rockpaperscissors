@@ -1,4 +1,4 @@
-# rockpaperscissors
+# Rock Paper Scissors by Dylan Gonzalez
 
 This is my Rock Paper Scissors project for The Odin Project. 
 
